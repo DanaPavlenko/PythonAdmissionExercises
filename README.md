@@ -1,2 +1,2 @@
-# PythonAdmissionExercises
-Python Admission exercises
+# Python Admission Exercises
+Various exercises for the admission
